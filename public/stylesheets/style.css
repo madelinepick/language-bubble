@@ -1,0 +1,19 @@
+body {
+  font-family: Lato;
+}
+h1{
+  font-weight: 300;
+  text-align: center;
+}
+
+a {
+  color: #00B7FF;
+}
+text{
+  font-size: 10px;
+  font-weight: normal;
+}
+.container{
+  margin-left: 20%;
+  margin-right: 20%;
+}
